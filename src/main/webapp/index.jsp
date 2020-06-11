@@ -1,6 +1,6 @@
 <html>
 <body>
 <h1>Happy learning!!</h1>
-<h2>Welcome to YogicMe!! Have a great Meditation today</h2>
+<h2>You have done Single Node automation successful bro!! Keep Going!!</h2>
 </body>
 </html>
