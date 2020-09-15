@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Happy learning!!</h1>
-<h2>Bharath Maatha ki Jai</h2>
-<h2>Balasaheb Thackerey is Tiger!!</h2>
+<h2> YO bro</h2>
+<h2> Thank you Sampath bro</h2>
 </body>
 </html>
